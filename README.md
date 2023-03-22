@@ -7,8 +7,8 @@ Student, Developer
 I am pursuing my B.Tech from NIT Agartala. I am enthusiatic in DevOps and Software engineering.
 
 * 🌍  I'm based in Agartala, Tripura, India.
-* 🖥️  See my portfolio at [Google Drive](http://https://drive.google.com/file/d/1WrGaING4cE9oYFBFzomEbCHb9WzAeAMu/view?usp=share_link)
-* 🧠  I'm learning Linux, Docker, Kubernetes
+* 🖥️  See my portfolio at [Google Drive](https://drive.google.com/file/d/1Pvfc9Q4ADAi66JfC2MivaLriKrFebB1P/view?usp=share_link)
+* 🧠  I'm learning Linux, Docker, Kubernetes, Jenkins, Terraform
 
 ### Skills
 
