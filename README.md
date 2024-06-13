@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 # 💫 About Me:
-I'm working as a Software Engineer at National Informatics Centre, Agartala<br>🌍  I'm based in Agartala, Tripura, India.<br> 🖥️  See my portfolio at [Google Drive.](https://drive.google.com/file/d/1I24Z6gMmj_QNO5lLXfLWGZS2UFO5vrJb/view?usp=drive_link)<br>🧠 I'm learning AWS, Linux, Docker, Kubernetes, Jenkins, Terraform.<br> Fun fact - I am pro in mosquito killing.<br>
+I'm working as a Software Engineer at National Informatics Centre, Agartala<br>🌍  I'm based in Agartala, Tripura, India.<br> 🖥️  See my portfolio at [Google Drive.](https://drive.google.com/file/d/1I24Z6gMmj_QNO5lLXfLWGZS2UFO5vrJb/view?usp=drive_link)<br>🧠 My tech stack Java, Spring, Docker, Kubernetes.<br> Fun fact - I am pro in mosquito killing.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ronit043) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumya-modak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ronit043) 
